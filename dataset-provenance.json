@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "generatedForAppVersion": "0.34.0",
+  "dataset": {
+    "modeCount": 2802,
+    "sourceCounts": {
+      "OFL": 2802
+    },
+    "licenseCounts": {
+      "MIT": 2802
+    }
+  },
+  "sources": [
+    {
+      "id": "OFL",
+      "name": "Open Fixture Library",
+      "projectUrl": "https://open-fixture-library.org/",
+      "repositoryUrl": "https://github.com/OpenLightingProject/open-fixture-library",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/OpenLightingProject/open-fixture-library/blob/master/LICENSE",
+      "attribution": "Open Fixture Library / OpenLightingProject contributors",
+      "usage": "Normalized fixture definitions used by Fixture Finder."
+    }
+  ],
+  "policy": {
+    "manual": "Manual-derived definitions retain source references; manuals are not redistributed.",
+    "community": "Community submissions retain source metadata and are not hardware-verified without a separate test record.",
+    "verifiedHardware": "Hardware verification never replaces original provenance."
+  }
+}
