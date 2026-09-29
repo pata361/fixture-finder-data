@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.0.0",
-  "generatedAt": "2026-09-29T15:42:58.856Z",
-  "fixtureModeCount": 2802,
-  "sha256": "531a4f939b22ad33069632134af8c8413d468fa6ccf381890d5922ba22b951e3",
+  "datasetVersion": "1.0.1",
+  "generatedAt": "2026-09-29T15:47:37.668Z",
+  "fixtureModeCount": 2857,
+  "sha256": "3ed68375119f7cf160ad8cdbca86956f698e445078500976759ae3720b4682d0",
   "datasetUrl": "https://cdn.jsdelivr.net/gh/pata361/fixture-finder-data@main/ofl-runtime.json"
 }
