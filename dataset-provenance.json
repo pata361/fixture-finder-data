@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedForAppVersion": "0.34.0",
+  "generatedForAppVersion": "1.0.0",
   "dataset": {
-    "modeCount": 2802,
+    "modeCount": 2857,
     "sourceCounts": {
-      "OFL": 2802
+      "OFL": 2857
     },
     "licenseCounts": {
-      "MIT": 2802
+      "MIT": 2857
     }
   },
   "sources": [
